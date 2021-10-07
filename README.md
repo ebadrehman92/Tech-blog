@@ -3,6 +3,8 @@
 # Description 
 Create a CMS-style blog site to publish articles, blog posts thoughts and opinions.
 
+<img width="1409" alt="techBlog" src="https://user-images.githubusercontent.com/64440230/136471798-0f94368f-9d06-4b18-ab59-2e91d2d54a6a.png">
+
 # Details
 User visits the site for the first time and is presented with the homepage, which includes existing blog posts if any have been posted. A navigation link for the homepage the dashboard and a log in.
 
